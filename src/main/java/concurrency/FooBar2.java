@@ -3,6 +3,8 @@ package concurrency;
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;
 
+/* leetcode 第1115题-交替打印FooBar */
+
 class FooBar2 {
     private int n;
 

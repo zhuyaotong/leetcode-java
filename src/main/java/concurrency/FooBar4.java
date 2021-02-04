@@ -3,6 +3,8 @@ package concurrency;
 import java.util.concurrent.BrokenBarrierException;
 import java.util.concurrent.CyclicBarrier;
 
+/* leetcode 第1115题-交替打印FooBar */
+
 class FooBar4 {
     private int n;
 

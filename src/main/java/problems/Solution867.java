@@ -1,5 +1,7 @@
 package problems;
 
+/* leetcode 第867题-转置矩阵 */
+
 class Solution867 {
     public int[][] transpose(int[][] A) {
         int R = A.length, C = A[0].length;

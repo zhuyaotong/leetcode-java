@@ -9,6 +9,8 @@ package problems;
  * int guess(int num);
  */
 
+/* leetcode 第374题-猜数字大小 */
+
 public class Solution374 extends GuessGame {
     public int guessNumber(int n) {
         int low = 1;

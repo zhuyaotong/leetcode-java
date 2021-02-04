@@ -2,7 +2,7 @@ package concurrency;
 
 import java.util.concurrent.Semaphore;
 
-/* leetcode 第1115题 */
+/* leetcode 第1115题-交替打印FooBar */
 
 class FooBar {
     private int n;

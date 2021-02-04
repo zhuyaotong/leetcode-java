@@ -2,7 +2,7 @@ package concurrency;
 
 import java.util.concurrent.atomic.AtomicInteger;
 
-/* leetcode 第1114题 */
+/* leetcode 第1114题-按序打印 */
 
 class Foo {
 

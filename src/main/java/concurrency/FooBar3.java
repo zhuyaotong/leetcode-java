@@ -1,5 +1,7 @@
 package concurrency;
 
+/* leetcode 第1115题-交替打印FooBar */
+
 class FooBar3 {
     private int n;
 
